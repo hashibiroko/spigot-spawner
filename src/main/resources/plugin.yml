@@ -1,0 +1,4 @@
+name: Spawner
+version: @version@
+main: com.github.hashibiroko.spigot.spawner.Main
+api-version: @api-version@
